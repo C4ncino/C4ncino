@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">My name is Carlos Cancino, I'm a software developer from Mexico.</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4ncino&label=Profile%20views&color=0e75b6&style=flat" alt="c4ncino" /> </p>
 
 ###
@@ -13,7 +11,7 @@
 ###
 
 <p align="left"> 
-Computer systems engineer with experience in web and hybrid application development, automation and embedded systems. I lead and collaborate in multidisciplinary teams, guiding projects to success by leveraging diverse perspectives. Passionate about technology, always eager to learn and share my knowledge.
+I'm a computer systems engineer with experience in web and hybrid application development, automation and embedded systems. I lead and collaborate in multidisciplinary teams, guiding projects to success by leveraging diverse perspectives. Passionate about technology, always eager to learn and share my knowledge.
 </p>
 
 ###
